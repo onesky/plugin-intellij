@@ -26,6 +26,8 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 7.  Select the module of your Android application
 8.  Click ```Apply``` or ```OK```
 
+![settings.png](https://raw.github.com/onesky/plugin-intellij/master/Images/settings.png)
+
 ## Send Strings
 
 1. Select ```OneSky``` from the main menu or context menu (right click any strings.xml)
@@ -34,6 +36,8 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 4. Optionally select ```Deprecate strings``` to deprecate the strings that cannot be found in the newly uploaded files with same filenames on server
 5. Click ```Send```
 
+![send_strings.png](https://raw.github.com/onesky/plugin-intellij/master/Images/send_strings.png)
+
 ## Sync Translations
 
 1. Select ```OneSky``` from the main menu
@@ -41,6 +45,8 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 3. Select the languages you want to sync with OneSky server
 4. You can see the progress of each language
 5. Click ```Sync```
+
+![sync_translations.png](https://raw.github.com/onesky/plugin-intellij/master/Images/sync_translations.png)
 
 ## Support
 http://support.oneskyapp.com/
