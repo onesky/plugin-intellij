@@ -20,11 +20,10 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
     - Under ```Project Settings```, select ```OneSky```
 3.  Find OneSky settings (IntelliJ IDEA 14 or above): 
     - Under ```Other Settings```, select ```OneSky```
-4.  Click the ```+``` button to add a new LESS profile
-5.  Enter the your OneSky API key and secret, these can be found on OneSky web admin
-6.  Click ```Refresh``` and select a project from the list
-7.  Select the module of your Android application
-8.  Click ```Apply``` or ```OK```
+4.  Enter the your OneSky API key and secret, these can be found on OneSky web admin
+5.  Click ```Refresh``` and select a project from the list
+6.  Select the module of your Android application
+7.  Click ```Apply``` or ```OK```
 
 ![settings.png](https://raw.github.com/onesky/plugin-intellij/master/Images/settings.png)
 
