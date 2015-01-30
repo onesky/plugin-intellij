@@ -5,7 +5,7 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 
 # Usage
 
-## Installation 
+## Installation
 
 1.  Go to ```File``` > ```Settings``` (Windows / Linux) or ```IntelliJ IDEA``` > ```Preferences``` (Mac)
 2.  Install the plugin from the IntelliJ plugin repository
@@ -16,9 +16,9 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 ## Configuration
 
 1.  Go to ```File``` > ```Settings``` (Windows / Linux) or ```IntelliJ IDEA > Preferences``` (Mac)
-2.  Find OneSky settings (IntelliJ IDEA 13 or Android Studio): 
+2.  Find OneSky settings (IntelliJ IDEA 13 or Android Studio):
     - Under ```Project Settings```, select ```OneSky```
-3.  Find OneSky settings (IntelliJ IDEA 14 or above): 
+3.  Find OneSky settings (IntelliJ IDEA 14 or above):
     - Under ```Other Settings```, select ```OneSky```
 4.  Enter the your OneSky API key and secret, these can be found on OneSky web admin
 5.  Click ```Refresh``` and select a project from the list
@@ -43,7 +43,8 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 2. Click ```Sync Translatioins...```
 3. Select the languages you want to sync with OneSky server
 4. You can see the progress of each language
-5. Click ```Sync```
+5. Optionally select ```Copy resources for deprecated locales support```, the plugin will copy resources to support deprecated locales (e.g. copy Hebrew 'he' to 'iw'). For more information, please visit [Android - Locale - Class Overview](http://developer.android.com/reference/java/util/Locale.html)
+6. Click ```Sync```
 
 ![sync_translations.png](https://raw.github.com/onesky/plugin-intellij/master/Images/sync_translations.png)
 
