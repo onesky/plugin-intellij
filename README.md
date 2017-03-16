@@ -16,9 +16,9 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 ## Configuration
 
 1.  Go to ```File``` > ```Settings``` (Windows / Linux) or ```IntelliJ IDEA > Preferences``` (Mac)
-2.  Find OneSky settings (IntelliJ IDEA 13 or Android Studio):
+2.  Find OneSky settings (IntelliJ IDEA 13):
     - Under ```Project Settings```, select ```OneSky```
-3.  Find OneSky settings (IntelliJ IDEA 14 or above):
+3.  Find OneSky settings (IntelliJ IDEA 14 or above or Android Studio):
     - Under ```Other Settings```, select ```OneSky```
 4.  Enter the your OneSky API key and secret, these can be found on OneSky web admin
 5.  Click ```Refresh``` and select a project from the list
