@@ -52,7 +52,7 @@ OneSky plugin for Android development on Intellij IDEA / Android Studio
 http://support.oneskyapp.com/
 
 ## Helpful articles
-[ How to find API key ](http://support.oneskyapp.com/solution/categories/74754/folders/150388/articles/89104-how-to-find-your-api)
+[ How to find API key ](https://support.oneskyapp.com/hc/en-us/articles/206887797-How-to-find-your-API-keys-)
 
 [More from here](http://support.oneskyapp.com/solution/categories)
 
